@@ -1,1 +1,0 @@
-# patelviralb.github.io
