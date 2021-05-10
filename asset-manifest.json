@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.5edc7faf.chunk.css",
-    "main.js": "/home/static/js/main.2e2972a4.chunk.js",
-    "main.js.map": "/home/static/js/main.2e2972a4.chunk.js.map",
+    "main.css": "/home/static/css/main.84226314.chunk.css",
+    "main.js": "/home/static/js/main.3e28dc7f.chunk.js",
+    "main.js.map": "/home/static/js/main.3e28dc7f.chunk.js.map",
     "runtime-main.js": "/home/static/js/runtime-main.1e703b0d.js",
     "runtime-main.js.map": "/home/static/js/runtime-main.1e703b0d.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/home/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.bfd85c6b.chunk.js": "/home/static/js/2.bfd85c6b.chunk.js",
-    "static/js/2.bfd85c6b.chunk.js.map": "/home/static/js/2.bfd85c6b.chunk.js.map",
+    "static/js/2.618af6ca.chunk.js": "/home/static/js/2.618af6ca.chunk.js",
+    "static/js/2.618af6ca.chunk.js.map": "/home/static/js/2.618af6ca.chunk.js.map",
     "index.html": "/home/index.html",
-    "precache-manifest.8c27d285757755fbac1dd9825c1997b8.js": "/home/precache-manifest.8c27d285757755fbac1dd9825c1997b8.js",
+    "precache-manifest.aa53ee1b7dd85c89f563a32298456629.js": "/home/precache-manifest.aa53ee1b7dd85c89f563a32298456629.js",
     "service-worker.js": "/home/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/home/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.5edc7faf.chunk.css.map": "/home/static/css/main.5edc7faf.chunk.css.map",
-    "static/js/2.bfd85c6b.chunk.js.LICENSE.txt": "/home/static/js/2.bfd85c6b.chunk.js.LICENSE.txt",
+    "static/css/main.84226314.chunk.css.map": "/home/static/css/main.84226314.chunk.css.map",
+    "static/js/2.618af6ca.chunk.js.LICENSE.txt": "/home/static/js/2.618af6ca.chunk.js.LICENSE.txt",
     "static/media/home-backgroung-image_keyboard-mouse.jpeg": "/home/static/media/home-backgroung-image_keyboard-mouse.4777d97b.jpeg",
     "static/media/khoury_college.png": "/home/static/media/khoury_college.566b1f66.png",
+    "static/media/northeastern_university.png": "/home/static/media/northeastern_university.116cdba4.png",
     "static/media/vp-profile-image.jpg": "/home/static/media/vp-profile-image.e9509129.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.1e703b0d.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.bfd85c6b.chunk.js",
-    "static/css/main.5edc7faf.chunk.css",
-    "static/js/main.2e2972a4.chunk.js"
+    "static/js/2.618af6ca.chunk.js",
+    "static/css/main.84226314.chunk.css",
+    "static/js/main.3e28dc7f.chunk.js"
   ]
 }
