@@ -1,0 +1,24 @@
+{
+  "languages": [
+    {
+      "name": "Java",
+      "proficiency": "Advanced"
+    },
+    {
+      "name": "C",
+      "proficiency": "Intermediate"
+    },
+    {
+      "name": "C++",
+      "proficiency": "Novice"
+    },
+    {
+      "name": "Python",
+      "proficiency": "Novice"
+    },
+    {
+      "name": "Scala",
+      "proficiency": "Novice"
+    }
+  ]
+}
