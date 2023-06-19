@@ -13,7 +13,7 @@ const DownloadResumeButton = () => {
       <CenterAlignedContainer className="col-12 col-md-6 offset-md-3">
         <a
           className="btn btn-success font-weight-bold shadow rounded text-decoration-none"
-          href="https://github.com/patelviralb/Resume/raw/master/Viral-Patel_Resume.pdf"
+          href="https://github.com/patelviralb/Resume/raw/master/Viral_Patel-Resume.pdf"
           target="_blank"
           rel="noopener noreferrer"
           download="Viral-Patel_Resume.pdf"

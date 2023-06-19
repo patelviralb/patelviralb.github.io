@@ -1,0 +1,28 @@
+{
+  "Email": {
+    "emailId": "pviralb05@gmail.com",
+    "subject": "Hi Viral!"
+  },
+  "SocialMedia": [
+    {
+      "name": "Linkedin",
+      "class": "fab fa-linkedin",
+      "link": "https://www.linkedin.com/in/patelviralb/"
+    },
+    {
+      "name": "Twitter",
+      "class": "fab fa-twitter",
+      "link": "https://twitter.com/pviralb/"
+    },
+    {
+      "name": "Facebook",
+      "class": "fab fa-facebook-square",
+      "link": "https://www.facebook.com/viral22/"
+    },
+    {
+      "name": "Github",
+      "class": "fab fa-github",
+      "link": "https://www.github.com/patelviralb/"
+    }
+  ]
+}
