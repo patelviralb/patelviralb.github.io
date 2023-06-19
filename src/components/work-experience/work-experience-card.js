@@ -6,17 +6,16 @@ import {
   TimelineItem,
   TimelineBullet,
   TimelineContent,
-} from "../styles/common";
+} from "../../styles/common";
 import {
   CompanyHeadingH5,
   DetailsIcon,
   UnorderedList,
-} from "../styles/work-experience";
+} from "../../styles/work-experience";
 
 const WorkExperienceCard = (props) => {
-  const [workExperienceDetails, setWorkExperienceDetails] = useState(
-    defaultState
-  );
+  const [workExperienceDetails, setWorkExperienceDetails] =
+    useState(defaultState);
 
   const toggleDetailsStatus = (organisation) => {
     if (workExperienceDetails[organisation] === "SHOW") {

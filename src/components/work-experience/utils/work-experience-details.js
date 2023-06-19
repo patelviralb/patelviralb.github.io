@@ -7,9 +7,11 @@ import {
   NortheasternUniversity,
   Prolifics,
   Infosys,
+  Visa,
 } from "../company-logos/company-logos";
 
 export const defaultState = {
+  VISA: "SHOW",
   BARCLAYS: "SHOW",
   QB: "SHOW",
   PROLIFICS: "SHOW",
@@ -20,6 +22,8 @@ export const defaultState = {
 
 export const getCompanyLogo = (organisation) => {
   switch (organisation) {
+    case "VISA":
+      return <Visa />;
     case "BARCLAYS":
       return <Barclays />;
     case "QB":

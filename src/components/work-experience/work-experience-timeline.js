@@ -1,6 +1,6 @@
 import React from "react";
 
-import { TimelineBar } from "../styles/common";
+import { TimelineBar } from "../../styles/common";
 import WorkExperienceDetails from "../../data/work-experience/work-experience-details.json";
 import WorkExperienceCard from "./work-experience-card";
 

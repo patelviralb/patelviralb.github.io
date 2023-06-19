@@ -6,7 +6,7 @@ import "bootstrap/dist/js/bootstrap.bundle.min";
 import Home from "../home";
 import AboutMe from "../about-me";
 import TechnicalKnowledge from "../technical-knowledge";
-// import WorkExperience from "../work-experience";
+import WorkExperience from "../work-experience";
 // import Education from "../education";
 import ContactMe from "../contact-me";
 
@@ -17,7 +17,7 @@ const Portfolio = () => {
       <Home />
       <AboutMe />
       <TechnicalKnowledge />
-      {/* <WorkExperience /> */}
+      <WorkExperience />
       {/* <Education /> */}
       <ContactMe />
     </Fragment>

@@ -1,6 +1,7 @@
 import React from "react";
 
 import {
+  VisaImage,
   BarclaysImage,
   QuickBaseSvg,
   KhouryImage,
@@ -8,11 +9,22 @@ import {
   ProlificsImage,
   CompanyLogoAnchor,
   InfosysSvg,
-} from "../../styles/work-experience";
+} from "../../../styles/work-experience";
+import VisaSrc from "../../../data/work-experience/company-logos/visa.png";
 import BarclaysSrc from "../../../data/work-experience/company-logos/barclays.png";
 import KhouryCollege from "../../../data/work-experience/company-logos/khoury_college.png";
 import Northeastern from "../../../data/work-experience/company-logos/northeastern_university.png";
 import ProlificsNameImage from "../../../data/work-experience/company-logos/prolifics_web_white.png";
+
+export const Visa = () => (
+  <CompanyLogoAnchor
+    href="https://usa.visa.com/"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <VisaImage src={VisaSrc} alt="Visa USA Inc." />
+  </CompanyLogoAnchor>
+);
 
 export const Barclays = () => (
   <CompanyLogoAnchor
@@ -20,10 +32,7 @@ export const Barclays = () => (
     target="_blank"
     rel="noopener noreferrer"
   >
-    <BarclaysImage
-      src={BarclaysSrc}
-      alt="Barclays"
-    />
+    <BarclaysImage src={BarclaysSrc} alt="Barclays" />
   </CompanyLogoAnchor>
 );
 

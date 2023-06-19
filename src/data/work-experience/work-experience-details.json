@@ -1,0 +1,92 @@
+{
+  "VISA": {
+    "companyName": "Visa USA Inc.",
+    "position": "Senior Software Engineer",
+    "duration": "February 2022 - Present",
+    "responsibilities": [
+      "Designed and implemented a streamlined product onboarding process for the Visa Developer Platform by developing new RESTful API endpoints and microservices. This initiative reduced the onboarding time by 10%, enhancing the efficiency and experience for clients",
+      "Collaborated with product owners from three different microservice application platforms to understand their integration requirements and provided expert guidance on leveraging Visa's API capabilities effectively",
+      "Automated the registration and credential acquisition process, significantly reducing manual effort and enabling a faster and more seamless onboarding experience for clients",
+      "Implemented an automated real-time compliance scan process for businesses utilizing Visa's APIs. This system ensured ongoing compliance monitoring, enabling proactive actions in case of any compliance breaches and reducing administrative manual effort by 30%",
+      "Worked closely with cross-functional teams, including developers, architects, and project managers, to coordinate API integration efforts and unify the product onboarding process across two separate platforms",
+      "Maintained comprehensive documentation and records of API integration projects, ensuring accurate and up-to-date information for future reference and knowledge sharing",
+      "Developed and documented API integration guidelines, best practices, and sample code snippets to accelerate the onboarding process and facilitate smooth integration for clients"
+    ]
+  },
+  "BARCLAYS": {
+    "companyName": "Barclays",
+    "position": "Technology Summer Analyst",
+    "duration": "June 2021 - August 2021",
+    "responsibilities": [
+      "Designed, implemented, and deployed an end-to-end ITRS Geneos infrastructure using a range of AWS services to monitor the business infrastructure at Barclays",
+      "Collaborated with stakeholders to understand monitoring requirements and translate them into an efficient and scalable infrastructure design",
+      "Leveraged AWS services such as EC2, S3, and IAM to build a robust and highly available monitoring system",
+      "Configured and customized ITRS Geneos to meet specific monitoring needs, ensuring accurate and timely alerts for critical infrastructure components",
+      "Documented the infrastructure setup, configuration, and maintenance procedures for future reference and knowledge sharing"
+    ]
+  },
+  "QB": {
+    "companyName": "Quick Base",
+    "position": "Software Engineer Co-op",
+    "duration": "June 2020 - January 2021",
+    "responsibilities": [
+      "Revamped the customer-facing UI for the timeline report (Gantt Chart) on the Quick Base (Low-code/No code) platform",
+      "Implemented significant improvements to the user interaction and usability of the timeline report, resulting in an impressive 80% increase in user satisfaction",
+      "Collaborated closely with stakeholders and designers to understand user requirements and translate them into intuitive and visually appealing UI designs",
+      "Utilized React.js, React Hooks, and Redux to develop responsive and interactive UI components, enhancing the overall user experience",
+      "Integrated back-end APIs designed using C++ for data retrieval, enabling a seamless population of features and facilitating CRUD operations based on user permissions and roles",
+      "Actively participated in code reviews and provided constructive feedback to optimize code quality and maintainability"
+    ]
+  },
+  "PROLIFICS": {
+    "companyName": "Prolifics",
+    "position": "Senior Software Engineer",
+    "duration": "November 2018 - August 2019",
+    "responsibilities": [
+      "Consulted with a healthcare organization to analyze and design a solution for tracking submitted Medicare claims, resulting in a significant 30% improvement in claim processing time",
+      "Developed a custom solution utilizing IBM WebSphere Transformation Extender (ITX/IBM WTX) and MySQL database to facilitate the tracking and submission of processed Medicare claims by providers",
+      "Worked extensively with various file formats including JSON, XML, CSV, and ANSI X12, ensuring seamless integration and data transformation between different systems",
+      "Provided technical support and training to end-users, facilitating smooth adoption and utilization of the developed solution",
+      "Continuously monitored system performance and implemented optimizations to enhance efficiency and scalability"
+    ]
+  },
+  "INFOSYS_TA": {
+    "companyName": "Infosys Limited",
+    "position": "Technology Analyst",
+    "duration": "April 2018 - November 2018",
+    "responsibilities": [
+      "Consulted with a Health Insurance Company to analyze their claims processing and enrollment management needs and, designed tailored solutions to optimize operations",
+      "Led and mentored a team of three junior professionals in the EDI (Electronic Data Interchange) managed service team, providing guidance in troubleshooting enrollment and claim process failures in a production environment",
+      "Acted as the primary point of contact for business clients, resolving critical process failures, managing day-to-day incidents, and creating break-fix service requests (SR) for prompt issue resolution",
+      "Implemented improvements to the system design for the claims extraction process, resulting in an impressive 80% reduction in turn-around time for ticket resolution and increased overall work efficiency of the team",
+      "Automated claim status inquiry processes by leveraging Java, Shell Scripting, C, and IBM MQ message system, streamlining operations and reducing manual effort",
+      "Stayed up-to-date with industry standards and emerging technologies, continuously identifying opportunities for process enhancement and innovation"
+    ]
+  },
+  "INFOSYS_SSE": {
+    "companyName": "Infosys Limited",
+    "position": "Senior Software Engineer",
+    "duration": "October 2016 - March 2018",
+    "responsibilities": [
+      "Led requirement-gathering efforts and conducted a thorough analysis to understand file processing and transformation needs, including ANSI X12, CSV, Fixed length, and XML formats",
+      "Utilized IBM WebSphere Transformation Extender (WTX/ITX) to design and implement efficient data processing solutions based on the complexity of requirements",
+      "Provided accurate effort estimations for project timelines, considering various factors such as data volume, transformation complexity, and integration dependencies",
+      "Successfully executed a multi-file format project using IBM WTX and shell scripting, resulting in a significant 30% increase in billing from the client due to the exceptional project design and implementation",
+      "Ensured smooth production deployment by providing release support and conducting production checkouts to validate the stability and integrity of the implemented solutions",
+      "Actively monitored and resolved issues during production deployments, minimizing downtime and ensuring uninterrupted business operations"
+    ]
+  },
+  "INFOSYS_SE": {
+    "companyName": "Infosys Limited",
+    "position": "Software Engineer",
+    "duration": "November 2014 - September 2016",
+    "responsibilities": [
+      "Designed and implemented custom validation processes for healthcare batch transactions including 834, 835, 837, and real-time transactions such as 270, 271, 276, 277, 278",
+      "Utilized C and Shell Scripting to develop robust validation scripts, ensuring data accuracy and compliance with industry standards",
+      "Developed custom maps using IBM WebSphere Transformation Extender (WTX) to convert ANSI X12 and CSV files to Fixed Length files and vice versa",
+      "Collaborated with clients to gather requirements and designed and implemented custom maps tailored to their specific needs",
+      "Ensured seamless data integration and interoperability by establishing effective data transformation processes",
+      "Worked closely with cross-functional teams to enhance data processing efficiency and improve overall system performance"
+    ]
+  }
+}

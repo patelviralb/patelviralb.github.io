@@ -1,6 +1,6 @@
 import React, { Fragment } from "react";
 
-import { SectionHeadingH1 } from "../styles/common";
+import { SectionHeadingH1 } from "../../styles/common";
 import PageBreak from "../page-break";
 import WorkExperienceTimeline from "./work-experience-timeline";
 
