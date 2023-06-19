@@ -1,0 +1,65 @@
+{
+  "my_education": [
+    {
+      "university": "Northeastern University",
+      "university_homepage": "https://www.northeastern.edu/",
+      "college": "Khoury College of Computer Sciences",
+      "college_homepage": "https://www.khoury.northeastern.edu/",
+      "location": "Boston, MA",
+      "degree": "Master of Science",
+      "major": "Computer Science",
+      "level": "Graduate Studies",
+      "duration": "September 2019 - December 2021",
+      "related_courses": [
+        "Programming Design Paradigm",
+        "Foundation of Artificial Intelligence",
+        "Web Development",
+        "Algorithms",
+        "Foundation of Software Engineering",
+        "Large Scale Parallel Data Processing",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "university": "University of Mumbai",
+      "university_homepage": "https://mu.ac.in/",
+      "college": "K. J. Somaiya institute of Engineering and Information Technology",
+      "college_homepage": "https://kjsieit.somaiya.edu.in/",
+      "location": "Mumbai, India",
+      "degree": "Bachelor of Engineering",
+      "major": "Computer Engineering",
+      "level": "Undergraduate Studies",
+      "duration": "August 2011 - June 2014",
+      "related_courses": [
+        "Digital Logic Design & Applications",
+        "Data Structure & Files",
+        "Web Engineering",
+        "System Programming and Compiler Construnction",
+        "Object Oriented Software Engineering",
+        "Soft Computing",
+        "Software Architecture",
+        "Embedded System"
+      ]
+    },
+    {
+      "university": "Shri bhagubhai Mafatlal Polytechnic",
+      "university_homepage": "https://sbmp.ac.in/",
+      "location": "Mumbai, India",
+      "degree": "Diploma",
+      "major": "Computer Engineering",
+      "level": "Diploma",
+      "duration": "August 2008 - June 2011",
+      "related_courses": [
+        "Programming in C/C++",
+        "Fundamentals of Computer",
+        "Computer Network",
+        "Data Structure",
+        "Database management System",
+        "PC Architecture",
+        "Fundamentals of Operating System",
+        "Microprocessors",
+        "PC Maintenance and Instruments"
+      ]
+    }
+  ]
+}

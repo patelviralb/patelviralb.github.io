@@ -7,7 +7,7 @@ import Home from "../home";
 import AboutMe from "../about-me";
 import TechnicalKnowledge from "../technical-knowledge";
 import WorkExperience from "../work-experience";
-// import Education from "../education";
+import Education from "../education";
 import ContactMe from "../contact-me";
 
 const Portfolio = () => {
@@ -18,7 +18,7 @@ const Portfolio = () => {
       <AboutMe />
       <TechnicalKnowledge />
       <WorkExperience />
-      {/* <Education /> */}
+      <Education />
       <ContactMe />
     </Fragment>
   );
