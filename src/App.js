@@ -1,15 +1,10 @@
-import logo from "./logo.svg";
+import React from "react";
 import "./App.css";
 
+import Portfolio from "./components/portfolio";
+
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>Good things are on the way....</p>
-      </header>
-    </div>
-  );
+  return <Portfolio />;
 }
 
 export default App;
