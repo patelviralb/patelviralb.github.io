@@ -1,32 +1,21 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.18a203cb.chunk.css",
-    "main.js": "/home/static/js/main.253d6429.chunk.js",
-    "main.js.map": "/home/static/js/main.253d6429.chunk.js.map",
-    "runtime-main.js": "/home/static/js/runtime-main.1e703b0d.js",
-    "runtime-main.js.map": "/home/static/js/runtime-main.1e703b0d.js.map",
-    "static/css/2.8163d445.chunk.css": "/home/static/css/2.8163d445.chunk.css",
-    "static/js/2.65300ad7.chunk.js": "/home/static/js/2.65300ad7.chunk.js",
-    "static/js/2.65300ad7.chunk.js.map": "/home/static/js/2.65300ad7.chunk.js.map",
+    "main.css": "/home/static/css/main.fcd1638e.css",
+    "main.js": "/home/static/js/main.aa178897.js",
+    "static/media/vp-profile-image.jpg": "/home/static/media/vp-profile-image.831a02a74306eb896b50.jpg",
+    "static/media/university-of-mumbai.png": "/home/static/media/university-of-mumbai.f0e470da393ce05ea630.png",
+    "static/media/home-backgroung-image_keyboard-mouse.jpeg": "/home/static/media/home-backgroung-image_keyboard-mouse.10b9f61a5d92aa5b67d2.jpeg",
+    "static/media/northeastern_university.png": "/home/static/media/northeastern_university.8fe258f25d8a804248ad.png",
+    "static/media/northeastern-university.png": "/home/static/media/northeastern-university.25a4de970a6d7d472eb5.png",
+    "static/media/khoury_college.png": "/home/static/media/khoury_college.0d0319c051c222360405.png",
+    "static/media/barclays.png": "/home/static/media/barclays.567f6e70c7ff24fe9b15.png",
+    "static/media/sbmp.jpg": "/home/static/media/sbmp.bfd47b676497873a17ff.jpg",
     "index.html": "/home/index.html",
-    "precache-manifest.0cee605651834b359feca6beac84cfd1.js": "/home/precache-manifest.0cee605651834b359feca6beac84cfd1.js",
-    "service-worker.js": "/home/service-worker.js",
-    "static/css/2.8163d445.chunk.css.map": "/home/static/css/2.8163d445.chunk.css.map",
-    "static/css/main.18a203cb.chunk.css.map": "/home/static/css/main.18a203cb.chunk.css.map",
-    "static/js/2.65300ad7.chunk.js.LICENSE.txt": "/home/static/js/2.65300ad7.chunk.js.LICENSE.txt",
-    "static/media/home-backgroung-image_keyboard-mouse.jpeg": "/home/static/media/home-backgroung-image_keyboard-mouse.4777d97b.jpeg",
-    "static/media/khoury_college.png": "/home/static/media/khoury_college.566b1f66.png",
-    "static/media/northeastern-university.png": "/home/static/media/northeastern-university.5bfd9e82.png",
-    "static/media/northeastern_university.png": "/home/static/media/northeastern_university.116cdba4.png",
-    "static/media/sbmp.jpg": "/home/static/media/sbmp.a8c01dde.jpg",
-    "static/media/university-of-mumbai.png": "/home/static/media/university-of-mumbai.d1a78952.png",
-    "static/media/vp-profile-image.jpg": "/home/static/media/vp-profile-image.e9509129.jpg"
+    "main.fcd1638e.css.map": "/home/static/css/main.fcd1638e.css.map",
+    "main.aa178897.js.map": "/home/static/js/main.aa178897.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.1e703b0d.js",
-    "static/css/2.8163d445.chunk.css",
-    "static/js/2.65300ad7.chunk.js",
-    "static/css/main.18a203cb.chunk.css",
-    "static/js/main.253d6429.chunk.js"
+    "static/css/main.fcd1638e.css",
+    "static/js/main.aa178897.js"
   ]
 }
