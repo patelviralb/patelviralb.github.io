@@ -1,5 +1,3 @@
-import React from "react";
-
 import {
   SectionSubHeadingH4,
   SectionHeadingH3,
@@ -26,7 +24,7 @@ const EducationCard = (props) => {
                 <SectionSubHeadingH4>{institute.level}</SectionSubHeadingH4>
               </div>
               <div className="d-flex justify-content-center mt-2">
-                <SectionSubHeadingH4>{institute.duration}</SectionSubHeadingH4>
+                <SectionHeadingH5>{institute.duration}</SectionHeadingH5>
               </div>
             </div>
             <div className="col-lg-8 col-12 p-4">
@@ -59,18 +57,20 @@ const EducationCard = (props) => {
                     Related Courses:
                   </SectionHeadingH5>
                 )}
-                {institute.related_courses.length > 0 &&
-                  institute.related_courses.map((course, index) => {
-                    return (
-                      <span
-                        key={index}
-                        className="badge badge-pill badge-warning m-2"
-                        style={{ fontWeight: "normal", fontSize: "15px" }}
-                      >
-                        {course}
-                      </span>
-                    );
-                  })}
+                <div style={{ overflow: "auto" }}>
+                  {institute.related_courses.length > 0 &&
+                    institute.related_courses.map((course, index) => {
+                      return (
+                        <div
+                          key={index}
+                          className="badge badge-pill badge-warning m-2"
+                          style={{ fontWeight: "normal", fontSize: "15px" }}
+                        >
+                          {course}
+                        </div>
+                      );
+                    })}
+                </div>
               </div>
             </div>
           </div>
