@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.fcd1638e.css",
-    "main.js": "/static/js/main.1fce333f.js",
+    "main.js": "/static/js/main.468c70e8.js",
     "static/js/787.8eb940f9.chunk.js": "/static/js/787.8eb940f9.chunk.js",
     "static/media/vp-profile-image.jpg": "/static/media/vp-profile-image.831a02a74306eb896b50.jpg",
     "static/media/university-of-mumbai.png": "/static/media/university-of-mumbai.f0e470da393ce05ea630.png",
@@ -13,11 +13,11 @@
     "static/media/sbmp.jpg": "/static/media/sbmp.bfd47b676497873a17ff.jpg",
     "index.html": "/index.html",
     "main.fcd1638e.css.map": "/static/css/main.fcd1638e.css.map",
-    "main.1fce333f.js.map": "/static/js/main.1fce333f.js.map",
+    "main.468c70e8.js.map": "/static/js/main.468c70e8.js.map",
     "787.8eb940f9.chunk.js.map": "/static/js/787.8eb940f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fcd1638e.css",
-    "static/js/main.1fce333f.js"
+    "static/js/main.468c70e8.js"
   ]
 }
